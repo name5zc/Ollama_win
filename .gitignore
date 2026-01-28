@@ -1,0 +1,21 @@
+# Build directories
+build/
+Output/
+
+# IDE files
+.vs/
+.vscode/
+*.user
+*.suo
+
+# Compiled binaries
+*.exe
+*.dll
+*.obj
+*.o
+
+# vcpkg
+vcpkg_installed/
+
+# Payload directory (contains binaries)
+payload/
